@@ -1,0 +1,18 @@
+p{
+
+color:red;
+font-style: italic;
+
+}
+
+.uno .tres{
+    background-color: red;
+  }
+  .uno>.tres{
+    font-size: 50px;
+  }
+  
+  .dos{
+    font-style: italic;
+    text-align: center;
+  }
